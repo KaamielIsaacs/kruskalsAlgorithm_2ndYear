@@ -1,1 +1,23 @@
 Minimum Cost of the Minimum Spanning Tree: 308
+Edges in the Minimum Spanning Tree:
+U -- F == 3
+X -- G == 4
+D -- C == 5
+J -- Y == 6
+K -- C == 7
+B -- M == 7
+T -- J == 8
+S -- M == 9
+J -- P == 10
+I -- T == 11
+G -- R == 12
+P -- K == 14
+Q -- S == 16
+T -- W == 17
+C -- S == 19
+I -- U == 20
+C -- L == 22
+N -- H == 25
+U -- X == 30
+E -- J == 31
+K -- H == 32
