@@ -1,0 +1,1 @@
+Minimum Cost of the Minimum Spanning Tree: 308
